@@ -1,5 +1,5 @@
 # WikipediaPathFinder
-Finds the shortest path between two Wikipedia articles using BFS. This script depends on (Selenium)[https://selenium.dev/]
+Finds the shortest path between two Wikipedia articles using BFS. This script depends on [Selenium](https://selenium.dev/)
 
 To use this script call
 
